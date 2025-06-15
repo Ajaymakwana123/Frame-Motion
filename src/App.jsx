@@ -1,5 +1,5 @@
 import Routin from "./utils/Routin";
-import Nav from "./components/Nav";
+import Nav from "../src/Components/Nav";
 
 function App() {
   return (
